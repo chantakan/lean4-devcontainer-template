@@ -1,0 +1,60 @@
+# Lean 4 Build Artifacts
+/.lake/
+/build/
+.lake/
+build/
+
+# If you need reproducible builds in CI/CD or team development,
+# comment out the above line and ensure postCreateCommand uses:
+# "elan default $(cat lean-toolchain) && lake build"
+# instead of "lake update"
+
+# Lean compilation outputs
+*.olean
+*.ilean
+*.trace
+
+# VS Code settings (optional - uncomment if you want to ignore)
+# .vscode/
+
+# DevContainer build cache
+.devcontainer/.cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+.*.swp
+.*.swo
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Log files
+*.log
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Python (if using Python scripts for automation)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Dependency directories
+node_modules/
+
+# Package manager files (if using npm/yarn for any tooling)
+package-lock.json
+yarn.lock
