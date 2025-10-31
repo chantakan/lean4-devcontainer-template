@@ -22,8 +22,8 @@ A minimal Lean 4 development environment using VSCode DevContainer. This setup p
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/lean4-project.git
-cd lean4-project
+git clone https://github.com/chantakan/lean4-devcontainer-template.git
+cd lean4-devcontainer-template
 ```
 
 2. **Open in VSCode**

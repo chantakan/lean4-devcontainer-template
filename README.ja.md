@@ -22,8 +22,8 @@ VSCode DevContainerを使用したミニマルなLean 4開発環境です。一�
 1. **リポジトリのクローン**
 
 ```bash
-git clone https://github.com/yourusername/lean4-project.git
-cd lean4-project
+git clone https://github.com/chantakan/lean4-devcontainer-template.git
+cd lean4-devcontainer-template
 ```
 
 2. **VSCodeで開く**
