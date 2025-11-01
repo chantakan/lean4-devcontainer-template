@@ -7,7 +7,7 @@ A minimal Lean 4 development environment using VSCode DevContainer. This setup p
 ## Features
 
 - 🐳 **Docker-based**: Consistent development environment using DevContainer
-- 🎯 **Minimal Size**: Optimized Dockerfile (~250-300MB) based on debian:bookworm-slim
+- 🎯 **Minimal Size**: Optimized Dockerfile based on debian:bookworm-slim
 - 🔧 **Pre-configured**: VSCode extensions and settings ready to use
 - 🚀 **Quick Setup**: One-click development environment activation
 
