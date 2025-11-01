@@ -7,7 +7,7 @@ VSCode DevContainerを使用したミニマルなLean 4開発環境です。一�
 ## 特徴
 
 - 🐳 **Dockerベース**: DevContainerによる一貫した開発環境
-- 🎯 **最小サイズ**: debian:bookworm-slimベースの最適化されたDockerfile (~250-300MB)
+- 🎯 **最小サイズ**: debian:bookworm-slimベースの最適化されたDockerfile
 - 🔧 **事前設定済み**: VSCode拡張機能と設定がすぐに使える
 - 🚀 **クイックセットアップ**: ワンクリックで開発環境を起動
 
